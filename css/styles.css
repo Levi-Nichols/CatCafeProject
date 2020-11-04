@@ -1,0 +1,33 @@
+#textAladin {
+  font-family: 'Aladin', cursive;
+}
+
+#textFlower {
+  font-family: 'Indie Flower', cursive;
+}
+
+#backColor {
+  background-color: #c7973e;
+}
+
+.jumbotron {
+  background-image: url(/img/backgroundwall.jpg!d);
+  background-size: cover;
+  height: 100%;
+  margin-bottom: 0;
+}
+
+#reserveButton {
+    background-color: #c7973e; 
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.navbar {
+    background-color: #c7973e;
+}
